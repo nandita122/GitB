@@ -1,0 +1,4 @@
+File in branch branch-new
+Hello!
+Learning merging with commit message
+the end

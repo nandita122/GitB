@@ -1,0 +1,4 @@
+Lab Experiment 6
+Merging with custom commit message
+The end
+
