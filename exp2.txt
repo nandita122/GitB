@@ -1,2 +1,1 @@
-New file
-Experiment 6
+This is the file for merging with commit message
