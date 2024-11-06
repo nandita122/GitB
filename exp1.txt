@@ -1,12 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Experiment 1 file has been become the file for experiment 5
-=======
-New file
-experiment 1
->>>>>>> 80be38d (new commit)
-
-Trying exp 5 in feature-branch
-=======
-Exp 1 file has been become the file for exp 5
->>>>>>> 7d2b364472edc782a5d9069872c659aff3e05ee0
+Experiment 6
